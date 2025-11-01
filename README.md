@@ -1,1 +1,1 @@
-# Sherlock-and-The-Beast
+# Sherlock-and-The-Beast This code generates the largest "decent number" of length `n`, which consists of digits `5` and `3` such that the number of `5`s is divisible by 3 and the number of `3`s is divisible by 5. If no such number exists, it prints `-1`.
